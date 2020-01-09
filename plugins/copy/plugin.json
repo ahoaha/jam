@@ -1,0 +1,7 @@
+{
+  "name": "Copy",
+  "description": "Copies player messages",
+  "game": "aj",
+  "main": "index.js",
+  "author": "Zane"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Packet Sniffer",
+  "description": "Sniff for game packets 🕵️",
+  "game": "aj",
+  "html": "index.html",
+  "author": "Zane"
+}

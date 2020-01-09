@@ -1,0 +1,7 @@
+{
+  "name": "Command utilities",
+  "description": "Command utilities",
+  "game": "aj",
+  "main": "index.js",
+  "author": "Zane"
+}

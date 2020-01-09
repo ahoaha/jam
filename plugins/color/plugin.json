@@ -1,0 +1,7 @@
+{
+  "name": "Color",
+  "description": "Changes your avatar color",
+  "game": "aj",
+  "main": "index.js",
+  "author": "Zane"
+}
